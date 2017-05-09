@@ -1,0 +1,29 @@
+{
+	"name": "bamazon",
+	"version": "1.0.0",
+	"description": "Back of house retail invetory",
+	"main": "bamazoncustomer.js",
+	"dependencies": {
+		"console.table": "^0.8.0",
+		"inquirer": "^3.0.6",
+		"mysql": "2.13.0"
+	},
+	"devDependencies":{},	
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"respository": {
+		"type": "git",
+		"url" "git+https//github.com/pj040887/bamazon.git"
+	},
+	"keywords": [
+		"amazon",
+		"disruptor"
+	],
+	"author": "Patrick",
+	"licence": "ISC",
+	"bugs": {
+		"url": "https://github.com/pj040887/bamazon/issues"
+	},
+	"homepage": "https://github.com/pj040887/bamazon#readme"
+}
